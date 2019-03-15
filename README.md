@@ -7,4 +7,7 @@ miauz
 * ölk
 * djj
 
-** serious stuff**
+** serious stuff **
+
+for the project of this class you will be describe what your model does and how to use it
+this text is the first thing that people accessing your file will see
