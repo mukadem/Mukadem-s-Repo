@@ -13,4 +13,4 @@ for the project of this class you will be describe what your model does and how 
 this text is the first thing that people accessing your file will see
 
 ### new changes to this file
-[youtube](www.youtube.com)
+[youtube](https://www.youtube.com/)
